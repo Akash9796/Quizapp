@@ -1,0 +1,11 @@
+
+
+.App{
+  height: 200vh;
+    background-image: url(Image/bg2.jpg);
+    background-position: center;
+    background-size: cover;
+    /* position: relative; */
+    overflow: hidden;
+
+}
